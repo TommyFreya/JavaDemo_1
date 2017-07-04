@@ -1,3 +1,8 @@
 .idea/misc.xml
 .idea/modules.xml
 TommyTest.iml
+.idea/libraries/commons_dbcp_1_4.xml
+.idea/libraries/commons_dbutils_1_6.xml
+.idea/codeStyleSettings.xml
+.idea/vcs.xml
+.idea/workspace.xml
